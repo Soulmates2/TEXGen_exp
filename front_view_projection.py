@@ -1,6 +1,6 @@
 import os
 import sys
-SVP_path = "/home/dld/texture/SingleViewProjection"
+SVP_path = "SingleViewProjection"
 sys.path.append(SVP_path)
 from glob import glob
 import subprocess
